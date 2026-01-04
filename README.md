@@ -126,6 +126,6 @@ The notebook follows **industry-standard data science practices** and emphasizes
 ---
 
 ## 👤 Author
-**Aniket Mishra**  
+[**Aniket Mishra**](https://www.linkedin.com/in/aniketmishra622/) 
 Data Analyst | Machine Learning Enthusiast
 
