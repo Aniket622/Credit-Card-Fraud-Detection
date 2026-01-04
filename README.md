@@ -20,7 +20,8 @@ The notebook follows **industry-standard data science practices** and emphasizes
 - Contains anonymized credit card transaction data  
 - Highly imbalanced target variable (`Class`)
   - `0` → Legitimate transaction  
-  - `1` → Fraudulent transaction  
+  - `1` → Fraudulent transaction
+- [Source](https://www.kaggle.com/datasets/niks622/creditcard-fraud-dataset?select=creditcard.csv)
 
 ---
 
